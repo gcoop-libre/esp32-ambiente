@@ -1,7 +1,7 @@
 # esp32-ambiente
 Arduino IDE project for ESP32 Ambient Sensor
 
-Based on an example project by Rui Santos
+Based on a project from Random Nerd Tutorials by Rui Santos
 
 https://github.com/RuiSantosdotme/ESP32-Course/tree/master/code/WiFi_Web_Server_DHT
 
